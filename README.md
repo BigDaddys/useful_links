@@ -8,6 +8,7 @@
 - [UX & UI](#ux--ui)
 
 ## Angular
+* [6 Useful Angular Decorators](https://blog.bitsrc.io/6-useful-decorators-to-use-in-your-angular-projects-777e9b4c8c62)
 * [Angular 9 и Ivy: ленивая загрузка компонентов](https://habr.com/ru/company/ruvds/blog/484618/)
 
 ## HTML & CSS
