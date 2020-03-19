@@ -10,11 +10,13 @@
 ## Angular
 * [6 Useful Angular Decorators](https://blog.bitsrc.io/6-useful-decorators-to-use-in-your-angular-projects-777e9b4c8c62)
 * [Angular 9 и Ivy: ленивая загрузка компонентов](https://habr.com/ru/company/ruvds/blog/484618/)
+* [3 способа рендеринга больших списков в Angular](https://habr.com/ru/company/ruvds/blog/492506)
 
 ## HTML & CSS
 * [4 CSS layouts without using media queries](https://polypane.app/blog/4-css-layouts-without-using-media-queries/)
 * [CSS Grid Template Areas In Action](https://ishadeed.com/article/grid-area/)
 * [CSS и производительность сети](https://css-live.ru/articles/css-i-proizvoditelnost-seti.html)
+* [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/)
 * [Wrapping long words with CSS or HTML](https://www.cjcid.com/articles/wrapping-long-words-css-html/)
 * [Методы скрытия элементов веб-страниц](https://habr.com/ru/company/ruvds/blog/485640/)
 * [Разница между разрешением CSS и разрешением устройства](https://webformyself.com/raznica-mezhdu-razresheniem-css-i-razresheniem-ustrojstva/)
@@ -24,6 +26,7 @@
 
 ## JavaScript Native
 * [3 полезных однострочников на JavaScript](https://habr.com/ru/company/ruvds/blog/456338/)
+* [NaN в JavaScript](https://webformyself.com/nan-v-javascript/)
 * [Rest и Spread в JavaScript. Возможности, о которых вы не знали](https://nuancesprog.ru/p/3547/)
 * [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
 * [Вам не нужны циклы в JavaScript](https://webformyself.com/vam-ne-nuzhny-cikly-v-javascript/)
